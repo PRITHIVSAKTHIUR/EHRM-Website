@@ -1,6 +1,8 @@
-Contributors Info
+Contributors Info, 
 Documentation
 About Contributors
+
+![row01](assets/5.png)
 
 
 The primary issue is the fragmented nature of patient records within traditional healthcare systems. These records are stored in disparate formats across various departments or facilities, which hinders comprehensive analysis and decision-making. Additionally, medical data is voluminous and heterogeneous, originating from diverse sources like electronic health records (EHRs), medical imaging, and clinical notes. This poses challenges in integration, preprocessing, and ensuring data accuracy for analysis. Furthermore, administrative and security concerns arise regarding managing access to sensitive health records while ensuring authentication, authorization, and regulatory compliance.
